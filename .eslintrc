@@ -1,7 +1,6 @@
 // important note!!!: eslint working version 5.6.0
 
-// npm i -D eslint^5.6.0
-// npm i -D eslint-config-airbnb eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react
+// npm i -D eslint@5.6.0 eslint-config-airbnb eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react
 
 //npm i -D prettier eslint-config-prettier eslint-plugin-prettier
 
